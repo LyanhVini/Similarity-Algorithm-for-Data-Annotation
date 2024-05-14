@@ -7,4 +7,4 @@ Pode ser acessada no seguinte repositório do [Google Drive](https://drive.googl
 
 A imagem abaixo representa a metodologia completa proposta para esse estudo (ainda em desenvolvimento):
 
-![Metodologia]([URL_da_imagem](https://github.com/LyanhVini/Similarity-Algorithm-for-Data-Annotation/blob/main/method-similarity.png))
+![Metodologia](https://github.com/LyanhVini/Similarity-Algorithm-for-Data-Annotation/blob/main/method-similarity.png)
